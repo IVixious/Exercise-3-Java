@@ -21,6 +21,9 @@ As a newbie GitHub + my first coding journey here, I'll need to reflect myself o
 - git commit -m "My first Java Coding - Refresh!"
 - git push origin main
 
+## Extras 💡 ##
+When we call a Scanner "import java.util.Scanner;" + "Scanner [name] = new Scanner(System.in);" , we should also close them with "[name].close()"
+
   ## End of Lesson - Thank You! ##
 
 
