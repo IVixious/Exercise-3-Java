@@ -22,7 +22,8 @@ As a newbie GitHub + my first coding journey here, I'll need to reflect myself o
 - git push origin main
 
 ## Extras 💡 ##
-When we call a Scanner "import java.util.Scanner;" + "Scanner [name] = new Scanner(System.in);" , we should also close them with "[name].close()"
+When we call a Scanner "import java.util.Scanner;" + "Scanner [name] = new Scanner(System.in);"
+- we should also close them with "[name].close()" as coding ethics!
 
   ## End of Lesson - Thank You! ##
 
